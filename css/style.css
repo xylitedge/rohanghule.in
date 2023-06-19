@@ -457,11 +457,11 @@ a.email:visited {
 
 section.quotes {
   /*background:#ffc548;*/
-  background: #e55c4c;
-  border-left: 20px solid white;
-  border-right: 20px solid white;
-  border-bottom: 20px solid white;
-  border-top: 20px solid white;
+  background: #808080;
+  border-left: 20px solid #808080;
+  border-right: 20px solid #808080;
+  border-bottom: 20px solid #808080;
+  border-top: 20px solid #808080;
 }
 
 section.quotes h1 {
