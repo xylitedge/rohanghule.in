@@ -2,9 +2,7 @@
 
 
 
-[![Facebook]() [![Twitter]()]() [![LinkedIn]()](https://linkedin.com/in/) [![YouTube]]() [![DEV]()]() [![BMC]()]()
 
-[![Typing SVG]()]()
 
 senior Test engineer,web3 enthusiast, and technopreneur from the India . 💻💖☕
 
