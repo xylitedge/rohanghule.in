@@ -11,7 +11,7 @@ senior Test engineer,web3 enthusiast, and technopreneur from the India . 💻�
 
 💻💖☕ by [Rohan Ghule](https://www.xylitedge.com) | 🙏
 
-[personal website]: https://rohanghule.com
+[personal website]: [https://rohanghule.com](https://xylitedge.github.io/rohanghule.in/)
 [business website]: https://xylitedge.com.com
 [biolink]: https://bio.link/xylitedge
 [facebook]: https://facebook.com/xylitedgeofficial
